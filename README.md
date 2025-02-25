@@ -1,7 +1,7 @@
 # HeliCheck
 
 ## Live Demo
-You can access the live website at: [YOUR_URL_HERE](https://helicheck.netlify.app/)
+You can access the live website at: [HeliCheck](https://helicheck.netlify.app/)
 
 ## Features
 - Responsive design that works across all device sizes
@@ -22,7 +22,7 @@ If you want to run this project locally:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/01001101CK/HeliCheck.git
    cd your-repo-name
    ```
 
